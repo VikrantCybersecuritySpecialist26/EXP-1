@@ -44,19 +44,29 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+<img width="1536" height="801" alt="KVL CIRCUIT DIAGRAM" src="https://github.com/user-attachments/assets/4073e45a-58dc-4c2f-a9a3-d22c3cd01a56" />
+
  
 
 
 b.  KCL:
+<img width="412" height="315" alt="KCL CIRCUIT DIAGRAM" src="https://github.com/user-attachments/assets/b237fe06-bc20-478d-8a96-be762716cfcb" />
+
  
 
 Calculation:
 
 a.   KVL:
+<img width="1307" height="1600" alt="WhatsApp Image 2026-10-20 at 1 14 07 PM" src="https://github.com/user-attachments/assets/e7a6e05b-2b25-42ce-8315-af051ff38032" />
+
  
 
 
 b.  KCL:
+<img width="1035" height="1332" alt="WhatsApp Image 2026-10-20 at 1 53 06 PM" src="https://github.com/user-attachments/assets/a074b402-dd61-40c9-846e-104a15c1425d" />
+
+
+
 
 
 
@@ -64,10 +74,15 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+<img width="2448" height="990" alt="WhatsApp Image 2026-10-20 at 1 14 07 PM (1)" src="https://github.com/user-attachments/assets/c84b7589-a337-4fb8-976d-dae9d3261c33" />
+
  
 
 
 b.  KCL:
+<img width="2114" height="734" alt="WhatsApp Image 2026-10-20 at 1 53 06 PM (1)" src="https://github.com/user-attachments/assets/7f89ae52-a1b5-4d86-84cc-c861ff46c756" />
+
+
 
 
 
